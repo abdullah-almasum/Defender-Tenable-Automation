@@ -487,6 +487,40 @@ Potential future enhancements include:
 
 ---
 
+## 🎥 Video Demonstration
+
+A complete step-by-step demonstration of the **Defender → Tenable security automation workflow**, including project setup, configuration, execution, monitoring, scanning, and CSV report generation.
+
+▶️ **Watch the Full Process on YouTube:**  
+[Defender → Tenable Security Automation — Full Process](https://www.youtube.com/watch?v=K3gqXFxMpH4&list=PL041iwaWysifHOx62I7R1y2ZPnTeXMUb2&index=2)
+
+### What the Video Covers
+
+```text
+Project Setup
+      ↓
+Repository Configuration
+      ↓
+Tenable API Configuration
+      ↓
+PowerShell Execution
+      ↓
+Microsoft Defender Event ID 1116
+      ↓
+RecordId Tracking
+      ↓
+Scan Queue Processing
+      ↓
+Tenable.io Scan Launch
+      ↓
+Scan Completion Monitoring
+      ↓
+CSV Report Export
+      ↓
+Local Report Storage
+```
+
+---
 ## Disclaimer
 
 This project is intended for **authorized security monitoring, vulnerability-management, research, and educational environments**.
